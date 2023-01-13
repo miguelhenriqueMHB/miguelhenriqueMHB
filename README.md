@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi,sou Miguel Henrique
 
 <!--
 **miguelhenriqueMHB/miguelhenriqueMHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
+** Minhas habilidades
+[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css)](https://skillicons.dev)
+
+ **Estou cursando na cubos academy.
+ [![My Skills](https://skillicons.dev/icons?i=mysql,typescript,java)](https://skillicons.dev)
+ 
+ 
+ 
+ -CONTACTS-
+
+ [![Gmail](https://img.shields.io/badge/%20-gmail%20-red)](https://mailto:thenouze@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhbc/)
+ 
