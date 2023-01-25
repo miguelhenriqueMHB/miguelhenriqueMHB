@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css)](https://skillicons.dev)
 
  **Estou cursando na cubos academy.
- [![My Skills](https://skillicons.dev/icons?i=mysql,typescript,java)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=mysql,typescript,java,react)](https://skillicons.dev)
  
  
  
