@@ -1,10 +1,17 @@
 ### Olá! 👋 Eu sou Miguel Henrique
 
-Sou desenvolvedor com experiência como **Desenvolvedor Fullstack** e atualmente atuo como **Freelancer** na área de desenvolvimento web. Tenho paixão por transformar ideias em código e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+Sou **Desenvolvedor Full-Stack** com experiência em **Front-End** e **Back-End**, atuando atualmente como **Freelancer** na área de desenvolvimento web. Tenho paixão por transformar ideias em código funcional e intuitivo. Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e entregar soluções eficientes.
 
 ---
 
-### 💻 Tecnologias e Ferramentas que utilizo
+### 💻 Minhas Especialidades
+
+**Desenvolvedor Full-Stack | Front-End | Back-End**  
+**Java | PHP | JavaScript | React.js | Node.js | SQL | MongoDB | Docker | Python | Git/GitHub**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas que utilizo
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -12,15 +19,21 @@ Sou desenvolvedor com experiência como **Desenvolvedor Fullstack** e atualmente
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Java](https://skillicons.dev/icons?i=java)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
 ### 🚀 Sobre mim
 
 - 💼 Atuo como **Freelancer** em projetos web e sistemas personalizados  
-- 👨‍💻 Já trabalhei como **desenvolvedor fullstack** em equipe de tecnologia  
+- 👨‍💻 Já trabalhei como **Desenvolvedor Full-Stack** em equipes de tecnologia  
 - 📚 Sempre estudando para me manter atualizado no mundo da programação  
 - ⚙️ Foco em **boas práticas**, **clean code** e **performance**
 
