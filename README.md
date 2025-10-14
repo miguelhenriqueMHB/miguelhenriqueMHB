@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ** Minhas habilidades
 [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css)](https://skillicons.dev)
 
- **Estou cursando na cubos academy.
+ Programador Junior!.
  [![My Skills](https://skillicons.dev/icons?i=mysql,typescript,java,react)](https://skillicons.dev)
  
  
