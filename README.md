@@ -1,29 +1,36 @@
-### Oi,sou Miguel Henrique
+### Olá! 👋 Eu sou Miguel Henrique
 
-<!--
-**miguelhenriqueMHB/miguelhenriqueMHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com experiência como **Desenvolvedor Fullstack** e atualmente atuo como **Freelancer** na área de desenvolvimento web. Tenho paixão por transformar ideias em código e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
-** Minhas habilidades
-[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css)](https://skillicons.dev)
+### 💻 Tecnologias e Ferramentas que utilizo
 
- Programador Junior!.
- [![My Skills](https://skillicons.dev/icons?i=mysql,typescript,java,react)](https://skillicons.dev)
- 
- 
- 
- -CONTACTS-
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Java](https://skillicons.dev/icons?i=java)
 
- [![Gmail](https://img.shields.io/badge/%20-gmail%20-red)](https://mailto:thenouze@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhbc/)
- 
+---
+
+### 🚀 Sobre mim
+
+- 💼 Atuo como **Freelancer** em projetos web e sistemas personalizados  
+- 👨‍💻 Já trabalhei como **desenvolvedor fullstack** em equipe de tecnologia  
+- 📚 Sempre estudando para me manter atualizado no mundo da programação  
+- ⚙️ Foco em **boas práticas**, **clean code** e **performance**
+
+---
+
+### 📫 Entre em contato comigo
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thenouze@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhbc/)
+
+---
+
+📍 *Sempre pronto para novos desafios e oportunidades no mundo da tecnologia!*
